@@ -54,6 +54,8 @@ text-decoration: none;
     overflow: hidden;
     z-index: 1;
     margin-top: -100vh;
+    color:black;
+    background-color: #180652;
 }
 
 .container1 img {
@@ -63,6 +65,7 @@ text-decoration: none;
     top: 0;
     left: 0;
     object-fit: contain;
+    background-color: #180652;
 }
 
 .container1 h2 {
