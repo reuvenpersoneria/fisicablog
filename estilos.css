@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Segoe UI', sans-serif;
-    background-color: #180652;
+    background: url(img/background.png) no-repeat;
     background-size: cover;
     height: 100vh;
 }
@@ -54,8 +54,6 @@ text-decoration: none;
     overflow: hidden;
     z-index: 1;
     margin-top: -100vh;
-    color:black;
-    background-color: #180652;
 }
 
 .container1 img {
@@ -65,7 +63,6 @@ text-decoration: none;
     top: 0;
     left: 0;
     object-fit: contain;
-    background-color: #180652;
 }
 
 .container1 h2 {
@@ -78,7 +75,6 @@ text-decoration: none;
     font-weight: 900;
     letter-spacing: 32px;
     line-height: 60px;
-    color:black;
 }
 
 .container1 h2 span {
